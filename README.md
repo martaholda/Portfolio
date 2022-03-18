@@ -10,3 +10,15 @@ Jestem początkującą testerką. To portfolio przedstawia mój proces przebran�
 * SQL Server Management Studio
 * PicPick
 * Sharex
+
+# Kursy
+
+# Techniczne książki
+
+# Blogi, strony tematyczne
+
+# Webinary, Meetupy
+
+# Moja autorska dokumentacja testowa
+
+# Moje projekty
