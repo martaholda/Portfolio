@@ -1,7 +1,7 @@
 # Portfolio
 
 # About me
-My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't satisfy me enough, so I started to learning something new. I was always interested in software testing, so I choose this. My goal is to expand my testing knowledge and technical skills. 
+My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get me enough fulfillment, so I started to learn something new. I was always interested in working with software, so I choose software testing. My goal is to expand my testing knowledge and technical skills. 
 
 # Tools
 * [TestLink](https://testlink.org/) - creating test cases
@@ -13,9 +13,14 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't sat
 * [Slack](https://slack.com/) - communication tool
 
 # Courses
+* Praktyczny kurs testowania oprogramowania
+* [uTest](utest.com) - uTest Academy
 * [w3schools.com](w3schools.com) - learning SQL
+* SQL - język zapytań do bazy danych SQL Server
+* [Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g&list=PL7NAC-bkGBcG2Nv7NiejNgm43SKR7Leq9) - Youtube channel [Technika programowania](https://www.youtube.com/c/TechnikaProgramowania/featured)
 
-# Books
+# Books and publications
+* Certyfikowany tester Sylabus poziomu podstawowego ISQTB
 * Radosław Smiglin -  "Zawód tester. Od decyzji do zdobycia doświadczenia"
 * Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB. Poziom podstawowy"
 * Karolina Zmitrowicz - "Testowanie oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania"
@@ -30,7 +35,3 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't sat
 
 # Webinars
 * No bullshit about... Testing 2021 - [nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021](nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021)
-
-# My test case examples
-
-# Moje projekty
