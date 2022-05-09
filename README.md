@@ -13,7 +13,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't sat
 * Slack
 
 # Courses
-* w3schools.com - learning SQL
+* [w3schools](w3schools.com) - learning SQL
 
 # Books
 * Radosław Smiglin -  "Zawód tester. Od decyzji do zdobycia doświadczenia"
@@ -21,7 +21,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't sat
 * Karolina Zmitrowicz - "Testowanie oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania"
 
 # Blogs
-* [testerzy.pl](testerzy.pl
+* [testerzy.pl](testerzy.pl)
 * [testuj.pl](testuj.pl)
 * [pwicherski.gitbook.io](pwicherski.gitbook.io)
 * [wyszkolewas.com.pl](wyszkolewas.com.pl)
@@ -29,7 +29,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't sat
 * [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
 
 # Webinars
-* No bullshit about... Testing 2021
+* No bullshit about... Testing 2021 [https://nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021/](https://nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021/)
 
 # My test case examples
 
