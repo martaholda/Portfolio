@@ -1,33 +1,36 @@
 # Portfolio
 
-# O mnie
-Jestem początkującą testerką. To portfolio przedstawia mój proces przebranżawiania się z farmaceutki w testera.
+# About me
+My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't satisfy me enough, so I started to learning something new. I was always interested in software testing, so I choose this. My goal is to expand my testing knowledge and technical skills. 
 
-# Narzędzia
+# Tools
 * TestLink
 * Jira
+* Trello
 * SQL Server Management Studio
 * PicPick
 * Sharex
+* Slack
 
-# Kursy
+# Courses
+* w3schools.com - learning SQL
 
-# Techniczne książki
+# Books
 * Radosław Smiglin -  "Zawód tester. Od decyzji do zdobycia doświadczenia"
 * Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB. Poziom podstawowy"
 * Karolina Zmitrowicz - "Testowanie oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania"
 
-# Blogi, strony tematyczne
-* testerzy.pl
-* testuj.pl
-* pwicherski.gitbook.io
-* wyszkolewas.com.pl
-* cherry-it.pl
-* remigiuszbednarczyk.pl
+# Blogs
+* [testerzy.pl](testerzy.pl
+* [testuj.pl](testuj.pl)
+* [pwicherski.gitbook.io](pwicherski.gitbook.io)
+* [wyszkolewas.com.pl](wyszkolewas.com.pl)
+* [cherry-it.pl](cherry-it.pl)
+* [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
 
-# Webinary, Meetupy
+# Webinars
 * No bullshit about... Testing 2021
 
-# Moja autorska dokumentacja testowa
+# My test case examples
 
 # Moje projekty
