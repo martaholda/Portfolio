@@ -4,7 +4,7 @@
 My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't satisfy me enough, so I started to learning something new. I was always interested in software testing, so I choose this. My goal is to expand my testing knowledge and technical skills. 
 
 # Tools
-* TestLink
+* [TestLink](https://testlink.org/)
 * Jira
 * Trello
 * SQL Server Management Studio
