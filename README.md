@@ -38,4 +38,4 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * No bullshit about... Testing 2021 - [nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021](nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021)
 
 # Exams
-* Scrum Open [https://www.scrum.org/open-assessments/scrum-open](https://www.scrum.org/open-assessments/scrum-open)
+* [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
