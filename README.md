@@ -16,7 +16,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * [uTest](utest.com) - uTest Academy
 * [w3schools.com](w3schools.com) - learning SQL
-* SQL - język zapytań do bazy danych SQL Server
+* [SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/learn/lecture/16298586?start=0#overview)
 * [Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g&list=PL7NAC-bkGBcG2Nv7NiejNgm43SKR7Leq9) - Youtube channel [Technika programowania](https://www.youtube.com/c/TechnikaProgramowania/featured)
 
 # Books and publications
@@ -35,7 +35,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [remigiuszbednarczyk.pl](remigiuszbednarczyk.pl)
 
 # Webinars
-* No bullshit about... Testing 2021 - [nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021](nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021)
+* [No bullshit about... Testing 2021](nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021)
 
 # Exams
 * [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
