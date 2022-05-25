@@ -24,6 +24,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * Radosław Smiglin -  "Zawód tester. Od decyzji do zdobycia doświadczenia"
 * Adam Roman, Lucjan Stapp - "Certyfikowany tester ISTQB. Poziom podstawowy"
 * Karolina Zmitrowicz - "Testowanie oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania"
+* Ken Schwaber, Jeff Sutherland - "Scrum Guide"
 
 # Blogs
 * [testerzy.pl](testerzy.pl)
@@ -35,3 +36,6 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 
 # Webinars
 * No bullshit about... Testing 2021 - [nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021](nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021)
+
+# Exams
+* Scrum Open [https://www.scrum.org/open-assessments/scrum-open](https://www.scrum.org/open-assessments/scrum-open)
