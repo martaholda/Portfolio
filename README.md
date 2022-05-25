@@ -13,7 +13,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [Slack](https://slack.com/) - communication tool
 
 # Courses
-* Praktyczny kurs testowania oprogramowania
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 * [uTest](utest.com) - uTest Academy
 * [w3schools.com](w3schools.com) - learning SQL
 * SQL - język zapytań do bazy danych SQL Server
