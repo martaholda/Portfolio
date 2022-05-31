@@ -18,6 +18,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [w3schools.com](w3schools.com) - learning SQL
 * [SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/learn/lecture/16298586?start=0#overview)
 * [Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g&list=PL7NAC-bkGBcG2Nv7NiejNgm43SKR7Leq9) - Youtube channel [Technika programowania](https://www.youtube.com/c/TechnikaProgramowania/featured)
+* Atlassian University
 
 # Books and publications
 * Certyfikowany tester Sylabus poziomu podstawowego ISQTB
@@ -39,3 +40,6 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 
 # Exams
 * [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
+
+# Badges
+* [Trello Fundamentals Badge](https://university.atlassian.com/student/award/BU23GGx72T8ppps8jVH1QPU7)
