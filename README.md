@@ -37,6 +37,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 
 # Webinars
 * [No bullshit about... Testing 2021](nobullshitabout.com/pelna-agenda-no-bullshit-about-testing-2021)
+* [Testowanie REST API dla początkujących](https://www.youtube.com/watch?v=AMVO2jsUfKY&feature=youtu.be)
 
 # Exams
 * [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
