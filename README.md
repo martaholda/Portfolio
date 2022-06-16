@@ -44,3 +44,6 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 
 # Badges
 * [Trello Fundamentals Badge](https://university.atlassian.com/student/award/BU23GGx72T8ppps8jVH1QPU7)
+
+# Bug reports
+* [Need to log in twice on website https://kurshipoteczny.pl/login/](https://docs.google.com/document/d/1AP5TTuIn7uC5CiDSeHvoEVoj69LA9U9d/edit?usp=sharing&ouid=113380698048799082522&rtpof=true&sd=true)
