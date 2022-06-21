@@ -11,10 +11,11 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [PicPick](https://picpick.app/pl/) - taking screenshots
 * [Sharex](https://getsharex.com/) - screen recording
 * [Slack](https://slack.com/) - communication tool
+* [Postman](https://www.postman.com/) - REST API testing basics
 
 # Courses
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-* [uTest](utest.com) - uTest Academy (19/26 -> in progress...)
+* [uTest](utest.com) - uTest Academy (21/26 -> in progress...)
 * [w3schools.com](w3schools.com) - learning SQL
 * [SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/course/kurs-sql/learn/lecture/16298586?start=0#overview)
 * [Kurs testowanie oprogramowania](https://www.youtube.com/watch?v=IBwa2qqVJ9g&list=PL7NAC-bkGBcG2Nv7NiejNgm43SKR7Leq9) - Youtube channel [Technika programowania](https://www.youtube.com/c/TechnikaProgramowania/featured)
