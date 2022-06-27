@@ -1,7 +1,7 @@
 # Portfolio
 
 # About me
-My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get me enough fulfillment, so I started to learn something new. I was always interested in working with software, so I choose software testing. My goal is to expand my testing knowledge and technical skills. I am starting to gain some experience in testing (in progress).
+My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get me enough fulfillment, so I started to learn something new. I was always interested in working with software, so I have chosen software testing. My goal is to expand my testing knowledge and technical skills. I am starting to gain some experience in testing (in progress).
 
 # Tools
 * [TestLink](https://testlink.org/) - creating test cases
