@@ -47,8 +47,11 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [Trello Fundamentals Badge](https://university.atlassian.com/student/award/BU23GGx72T8ppps8jVH1QPU7)
 
 # Projects in which I participate
-* [CherryIT - Project Odessa - crowdtesting the Incharge app](https://inchargecard.com/)
+* [CherryIT - Project Odessa - crowdtesting the Incharge app](https://inchargecard.com/) - exploratory testing of banking app
 
 # Bug reports
 * [Need to log in twice on website https://kurshipoteczny.pl/login/](https://docs.google.com/document/d/1AP5TTuIn7uC5CiDSeHvoEVoj69LA9U9d/edit?usp=sharing&ouid=113380698048799082522&rtpof=true&sd=true)
 * [Need to fill in not mandatory field in form on https://www.51015kids.eu/contact/)](https://drive.google.com/file/d/10mVIEXbCxCPqEGvWVC1C2W6_BWbefTL-/view?usp=sharing)
+
+# My projects
+* ["Tatry" Trello board](https://trello.com/b/qVnxbwvZ/tatry)[Board was created by REST API testing in Postman](https://www.postman.com/collections/7171d175f16b8ef848b8)
