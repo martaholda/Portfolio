@@ -54,4 +54,4 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [Need to fill in not mandatory field in form on https://www.51015kids.eu/contact/)](https://drive.google.com/file/d/10mVIEXbCxCPqEGvWVC1C2W6_BWbefTL-/view?usp=sharing)
 
 # My projects
-* ["Tatry" Trello board.](https://trello.com/b/qVnxbwvZ/tatry) Board was created by REST API testing in Postman [collection.](https://www.postman.com/collections/7171d175f16b8ef848b8)
+* ["Tatry" Trello board.](https://trello.com/b/qVnxbwvZ/tatry) Board was created during REST API testing in Postman [collection.](https://www.postman.com/collections/7171d175f16b8ef848b8)
