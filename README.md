@@ -55,3 +55,4 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 
 # My own projects
 * ["Tatry" Trello board.](https://trello.com/b/qVnxbwvZ/tatry) Board was created during REST API testing in Postman [collection.](https://www.postman.com/collections/7171d175f16b8ef848b8)
+* [Equivalence class partitioning and boundary values analysis example](https://drive.google.com/file/d/1MY569kaQBJ5BvLWekXs4NRqCwCFslC0T/view?usp=sharing)
