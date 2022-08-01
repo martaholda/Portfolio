@@ -12,6 +12,7 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 * [Sharex](https://getsharex.com/) - screen recording
 * [Slack](https://slack.com/) - communication tool
 * [Postman](https://www.postman.com/) - REST API testing basics
+* [SoapUI](https://www.soapui.org/) - in progress...
 
 # Courses
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
