@@ -1,7 +1,18 @@
 # Portfolio
 
 # About me
-My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get me enough fulfillment, so I started to learn something new. I was always interested in working with software, so I have chosen software testing. My goal is to expand my testing knowledge and technical skills. I am starting to gain some experience in testing (in progress).
+My name is Marta Hołda. I am junior manual tester. Working in pharmacy didn't get me enough fulfillment, so I started to learn something new. I was always interested in working with software, so I have chosen software testing. My goal is to expand my testing knowledge and technical skills. I am starting to gain some experience in testing (in progress).
+
+# Projects in which I participate
+* [CherryIT - Project Odessa - crowdtesting the Incharge app](https://inchargecard.com/) - exploratory testing of banking app
+
+# Bug reports
+* [Need to log in twice on website https://kurshipoteczny.pl/login/](https://docs.google.com/document/d/1AP5TTuIn7uC5CiDSeHvoEVoj69LA9U9d/edit?usp=sharing&ouid=113380698048799082522&rtpof=true&sd=true)
+* [Need to fill in not mandatory field in form on https://www.51015kids.eu/contact/)](https://drive.google.com/file/d/10mVIEXbCxCPqEGvWVC1C2W6_BWbefTL-/view?usp=sharing)
+
+# My own projects
+* ["Tatry" Trello board.](https://trello.com/b/qVnxbwvZ/tatry) Board was created during REST API testing in Postman [collection.](https://www.postman.com/collections/7171d175f16b8ef848b8)
+* [Equivalence class partitioning and boundary values analysis example](https://drive.google.com/file/d/1MY569kaQBJ5BvLWekXs4NRqCwCFslC0T/view?usp=sharing)
 
 # Tools
 * [TestLink](https://testlink.org/) - creating test cases
@@ -47,13 +58,4 @@ My name is Marta Hołda. I am master of pharmacy. Working in pharmacy didn't get
 # Badges
 * [Trello Fundamentals Badge](https://university.atlassian.com/student/award/BU23GGx72T8ppps8jVH1QPU7)
 
-# Projects in which I participate
-* [CherryIT - Project Odessa - crowdtesting the Incharge app](https://inchargecard.com/) - exploratory testing of banking app
 
-# Bug reports
-* [Need to log in twice on website https://kurshipoteczny.pl/login/](https://docs.google.com/document/d/1AP5TTuIn7uC5CiDSeHvoEVoj69LA9U9d/edit?usp=sharing&ouid=113380698048799082522&rtpof=true&sd=true)
-* [Need to fill in not mandatory field in form on https://www.51015kids.eu/contact/)](https://drive.google.com/file/d/10mVIEXbCxCPqEGvWVC1C2W6_BWbefTL-/view?usp=sharing)
-
-# My own projects
-* ["Tatry" Trello board.](https://trello.com/b/qVnxbwvZ/tatry) Board was created during REST API testing in Postman [collection.](https://www.postman.com/collections/7171d175f16b8ef848b8)
-* [Equivalence class partitioning and boundary values analysis example](https://drive.google.com/file/d/1MY569kaQBJ5BvLWekXs4NRqCwCFslC0T/view?usp=sharing)
