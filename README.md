@@ -7,8 +7,8 @@ My name is Marta Hołda. I am junior manual tester. Working in pharmacy didn't g
 * [CherryIT - Project Odessa - crowdtesting the Incharge app](https://inchargecard.com/) - exploratory testing of banking app
 
 # Bug reports
-* [Need to log in twice on website https://kurshipoteczny.pl/login/](https://docs.google.com/document/d/1AP5TTuIn7uC5CiDSeHvoEVoj69LA9U9d/edit?usp=sharing&ouid=113380698048799082522&rtpof=true&sd=true)
-* [Need to fill in not mandatory field in form on https://www.51015kids.eu/contact/)](https://drive.google.com/file/d/10mVIEXbCxCPqEGvWVC1C2W6_BWbefTL-/view?usp=sharing)
+* [[Bug] Impossible to send form with empty, not mandatory 'Phone number' field](https://drive.google.com/file/d/1qmxGoSGhIXDApNQE4XnvL-WrIJ30BszS/view?usp=sharing)
+* [[Bug] Unable to log in in first attempt to website with correct login credentials](https://drive.google.com/file/d/1nX6a64SCAfgYdiSknB-H9Gw3jF5mNszn/view?usp=sharing)
 
 # My own projects
 * ["Tatry" Trello board.](https://trello.com/b/qVnxbwvZ/tatry) Board was created during REST API testing in Postman [collection.](https://www.postman.com/collections/7171d175f16b8ef848b8)
