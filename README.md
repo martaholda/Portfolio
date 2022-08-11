@@ -4,7 +4,7 @@
 My name is Marta Hołda. I am junior manual tester. Working in pharmacy didn't get me enough fulfillment, so I started to learn something new. I was always interested in working with software, so I have chosen software testing. My goal is to expand my testing knowledge and technical skills. I am starting to gain some experience in testing (in progress).
 
 # Projects in which I participate
-* [CherryIT - Project Odessa - crowdtesting the Incharge app](https://inchargecard.com/) - exploratory testing of banking app
+* 03.2022 - 07.2022 [CherryIT - Project Odessa - crowdtesting the Incharge app](https://inchargecard.com/) - exploratory testing of banking app
 
 # Bug reports
 * [[Bug] Impossible to send form with empty, not mandatory 'Phone number' field](https://drive.google.com/file/d/1qmxGoSGhIXDApNQE4XnvL-WrIJ30BszS/view?usp=sharing)
